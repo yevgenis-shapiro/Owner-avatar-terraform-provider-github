@@ -1,4 +1,4 @@
-# GitHub
+# Terraform Module for GitHub Repositories
 GitHub provides a web-based centralized platform to store, manage, and share code. With its user-friendly interface and collaborative tools, it has become a popular choice for version control and project management
 
 ![image](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*cWBkIri5rkF5Oglp-ibO9A.jpeg)
