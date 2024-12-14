@@ -5,7 +5,7 @@ GitHub provides a web-based centralized platform to store, manage, and share cod
 
 
 
-### GitHub
+###
 Github provider allows you to manage your GitHub organization’s members and teams easily. Terraform has the perfect solution — codify, version, automate, reuse, audit, and release. By integrating GitHub with Terraform, we can manage our GitHub organizations, repositories, branches, teams, projects, and actions more efficiently.
 
  
