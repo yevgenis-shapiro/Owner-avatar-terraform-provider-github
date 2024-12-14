@@ -25,6 +25,6 @@ Github provider allows you to manage your GitHub organization’s members and te
 
 The following tools were used in this project:
 
-    Terraform & GitHub + Jenins
+    Terraform & GitHub + Jenkins
 
 
