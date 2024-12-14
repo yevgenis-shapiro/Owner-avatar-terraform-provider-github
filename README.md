@@ -6,6 +6,8 @@ The provider allows you to manage your GitHub organization’s members and teams
 
 
 ### GitHub
+To create, manage and to interact with GitHub repository we are using The provider called GitHub provider
+
  
 🎯 Features :
 
